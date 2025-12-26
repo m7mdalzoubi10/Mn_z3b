@@ -31,7 +31,7 @@ Computer Science Student 💻 | Passionate about Programming & Problem Solving
 
 ### 🌐 Where to Find Me
 <p>
-  <a href="https://github.com/USERNAME_HERE">
+  <a href="https://github.com/m7mdalzoubi10">
     <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
